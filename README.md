@@ -99,13 +99,14 @@ words.
 * **matrix**: Yet another word for an Array of Arrays
 * **`X` by `Y` array**: An array that contains `Y`-many many rows with `X`-many
   elements in it. It defines the size of a matrix's maximum space (or, "area")
+
 ## Recognize that "Arrays of Arrays" Are Grids or Coordinate Systems
 
 You might have noticed from our bookcase example, that finding a book in a
 two-dimensional `Array` required us to pass two integers or coordinates.
 
 Anywhere where humans might see a grid (latitude/longitude as coordinates on a
-map, the Cartesian coordinate system for graphing, B9 as the coordinate of a
+map, the Cartesian coordinate system for graphing, `B9` as the coordinate of a
 snack in a vending machine), it's very likely the grid would be stored in a
 computer in a 2-D matrix.
 

@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-1. Recognize vocabulary term: "array of array"
+1. Recognize vocabulary term: "array of array" or ("AoA")
 2. Recognize that "arrays of arrays" are grids or coordinate systems
 3. Create a nested `Array`
 4. Read scalar data from an array of arrays

@@ -85,6 +85,9 @@ trying to model a problem as a programmer, you might see someone use these
 words.
 
 * **2-D** array: "Two dimensional Array:" another word for an nested array
+* **Multidimensional Array**: 3-D arrays are also possible (`Array` of `Array`
+  of `Array`). This results in the category known as "Multidimensional
+  Arrays"
 * **AoA**: **A**rray **o**f **A**rray: another word for an nested array
 * **cell** or **cel**: the coordinate element inside of an `Array` that itself
   is inside another `Array`; alternatively, it's what's in the **grid** at the

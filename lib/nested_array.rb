@@ -42,7 +42,7 @@ end
 
 def matrix_lookup(matrix, row, column)
   # Return the matrix's content at row and column
-  return sorted_array[][]
+  return sorted_array[row][column]
 end
 
 def matrix_update(matrix, row, column, new_value)
